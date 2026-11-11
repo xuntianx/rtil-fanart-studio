@@ -1,0 +1,62 @@
+[
+  {
+    "file": "assets/style-references/01-chibi-scene.jpg",
+    "purpose": "Illustration: chibi proportions, props, and bright colors",
+    "creator": "rtil",
+    "source_post": "https://x.com/rtil/status/2101098950887424406",
+    "source_image": "https://pbs.twimg.com/media/HSiJR8QaMAAMbZJ.jpg",
+    "post_published_at": "Sat Sep 19 00:00:01 +0000 2026",
+    "collected_at": "2026-11-11 Asia/Shanghai",
+    "packaged_at": "2026-11-11 Asia/Shanghai",
+    "sha256": "e35689d25a5729602fdb249a800d33639e7734072f996d88c5d436733e888458",
+    "rights_note": "Original artwork belongs to its creator and respective rights holders. Listed for the user-requested visual style study; original image files are not distributed in this repository. Attribution does not imply permission or endorsement; do not deliver these originals as newly generated artwork."
+  },
+  {
+    "file": "assets/style-references/02-cafe-scene.jpg",
+    "purpose": "Illustration: warm interior lighting, character interaction, and soft shadows",
+    "creator": "rtil",
+    "source_post": "https://x.com/rtil/status/2081895718977950111",
+    "source_image": "https://pbs.twimg.com/media/HORczc3X0AA6LWS.jpg",
+    "post_published_at": "Tue Jul 28 00:13:13 +0000 2026",
+    "collected_at": "2026-11-11 Asia/Shanghai",
+    "packaged_at": "2026-11-11 Asia/Shanghai",
+    "sha256": "c59cd581d197ef3f99f979ab749aa7cd811fd20814318eaf9d067a326dc1b7be",
+    "rights_note": "Original artwork belongs to its creator and respective rights holders. Listed for the user-requested visual style study; original image files are not distributed in this repository. Attribution does not imply permission or endorsement; do not deliver these originals as newly generated artwork."
+  },
+  {
+    "file": "assets/style-references/03-cinema-comic.jpg",
+    "purpose": "Comic: stacked-panel contrast, expressions, and changing relationships",
+    "creator": "rtil",
+    "source_post": "https://x.com/rtil/status/2090227652669903209",
+    "source_image": "https://pbs.twimg.com/media/HQH678IX0AATR4b.jpg",
+    "post_published_at": "Thu Aug 20 00:01:21 +0000 2026",
+    "collected_at": "2026-11-11 Asia/Shanghai",
+    "packaged_at": "2026-11-11 Asia/Shanghai",
+    "sha256": "7474b092b9c409abe266aa9472b5b5a6cbb94396f0d1edc2bce224c0d8173b43",
+    "rights_note": "Original artwork belongs to its creator and respective rights holders. Listed for the user-requested visual style study; original image files are not distributed in this repository. Attribution does not imply permission or endorsement; do not deliver these originals as newly generated artwork."
+  },
+  {
+    "file": "assets/style-references/04-halloween-dialogue.jpg",
+    "purpose": "Interaction: distinct group reactions, environmental storytelling, and speech boxes",
+    "creator": "rtil",
+    "source_post": "https://x.com/rtil/status/2113057753434574965",
+    "source_image": "https://pbs.twimg.com/media/HVL7ob_WUAA5ry5.jpg",
+    "post_published_at": "Thu Oct 22 00:00:01 +0000 2026",
+    "collected_at": "2026-11-11 Asia/Shanghai",
+    "packaged_at": "2026-11-11 Asia/Shanghai",
+    "sha256": "67c68b8d5ff728a5527762a677bf5f2ac3643eff7e3d58d19376116a27ccf810",
+    "rights_note": "Original artwork belongs to its creator and respective rights holders. Listed for the user-requested visual style study; original image files are not distributed in this repository. Attribution does not imply permission or endorsement; do not deliver these originals as newly generated artwork."
+  },
+  {
+    "file": "assets/style-references/05-cookie-dialogue.jpg",
+    "purpose": "Interaction: silhouettes, props, and dialogue that create a joke",
+    "creator": "rtil",
+    "source_post": "https://x.com/rtil/status/2105447607757615224",
+    "source_image": "https://pbs.twimg.com/media/HTgMlmUbEAAOzH0.jpg",
+    "post_published_at": "Thu Oct 01 00:00:01 +0000 2026",
+    "collected_at": "2026-11-11 Asia/Shanghai",
+    "packaged_at": "2026-11-11 Asia/Shanghai",
+    "sha256": "49eb8f0a78d47f0aa2212b01d0d0502e0ab2e375e9c3e0e76502f72f4538a120",
+    "rights_note": "Original artwork belongs to its creator and respective rights holders. Listed for the user-requested visual style study; original image files are not distributed in this repository. Attribution does not imply permission or endorsement; do not deliver these originals as newly generated artwork."
+  }
+]

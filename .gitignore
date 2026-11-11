@@ -1,0 +1,11 @@
+# Source artwork is retrieved locally, never committed.
+/assets/style-references/
+/outputs/
+/test-output/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

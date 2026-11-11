@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fanart Studio - rtil Style Reference"
+  short_description: "Create rtil-inspired fanart with clear on-image attribution"
+  default_prompt: "Use $rtil-fanart-studio to create a three-panel English comic about Frieren and Fern running a magic shop."
